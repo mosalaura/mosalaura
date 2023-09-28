@@ -5,7 +5,7 @@ Me aventurando em novas tecnologias.
 
 ## Sobre mim
 
-  > **23 anos**. \
+  > **24 anos**. \
   > Estudando Frontend - HTML, CSS, JS \
   > Conhecimentos básicos de Backend em PHP - Laravel 9 \
   > e de ferramentas como XAMPP, DBeaver e Insomnia.
